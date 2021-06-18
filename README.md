@@ -1,7 +1,7 @@
 # Professional Development Workshop on Extreme Environments
 
 <img src="https://user-images.githubusercontent.com/46701190/122614264-f49d3480-d04b-11eb-9e92-775fa59ee719.png" width=50% height=50% align='left'>
-<img src="https://user-images.githubusercontent.com/46701190/122614265-f535cb00-d04b-11eb-86b7-c18590abe90f.png" width=50% height=50% align='right'>
+<img src="https://user-images.githubusercontent.com/46701190/122614265-f535cb00-d04b-11eb-86b7-c18590abe90f.png" width=50% height=50% align='left'>
 
 
 
