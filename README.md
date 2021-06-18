@@ -5,4 +5,4 @@ This notebook was created for the CAMEE professional development workshop on ext
 
 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/2J0QTwxBngc)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=2J0QTwxBngc)
