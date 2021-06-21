@@ -11,6 +11,6 @@ This notebook was created for the CAMEE professional development workshop on ext
 
 https://user-images.githubusercontent.com/46701190/122615220-c6205900-d04d-11eb-806a-0607ccaea64a.mp4
 
-_credit: Jennifer Bault - 'Ice Core Extraction', Jun 7, 2018_
+_credit: Jennifer Bault - 'Ice Core Extraction', Jun 7, 2018: https://www.youtube.com/watch?v=vmX9w7VbDbg_
 
 
