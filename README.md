@@ -14,3 +14,4 @@ https://user-images.githubusercontent.com/46701190/122615220-c6205900-d04d-11eb-
 _credit: Jennifer Bault - 'Ice Core Extraction', Jun 7, 2018: https://www.youtube.com/watch?v=vmX9w7VbDbg_
 
 
+* [Jump to the depth-salinity tutorial](https://github.com/jcbw/UTSA_CAMEE_SUMMER21/blob/24d39943c2011a2c5b30cf3abb9892da6f36d57d/TA_CAMEE_SUM21/TA_CAMEE_SUM21.ipynb)
