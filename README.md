@@ -15,3 +15,4 @@ _credit: Jennifer Bault - 'Ice Core Extraction', Jun 7, 2018: https://www.youtub
 
 * ## Tutorial links:
  [Jump to the depth-salinity tutorial](https://github.com/jcbw/UTSA_CAMEE_SUMMER21/blob/24d39943c2011a2c5b30cf3abb9892da6f36d57d/TA_CAMEE_SUM21/TA_CAMEE_SUM21.ipynb)
+ [Watch: The Beauty of Ice experiment](https://youtu.be/3y6p0yLhmZU) 
