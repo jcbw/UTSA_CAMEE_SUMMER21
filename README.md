@@ -17,5 +17,7 @@ _credit: Jennifer Bault - 'Ice Core Extraction', Jun 7, 2018: https://www.youtub
  [Jump to the depth-salinity tutorial](https://github.com/jcbw/UTSA_CAMEE_SUMMER21/blob/24d39943c2011a2c5b30cf3abb9892da6f36d57d/TA_CAMEE_SUM21/TA_CAMEE_SUM21.ipynb)
  
 ### Watch: The beauty of ice - Where art and science collide
+
+This video references the Polartrec tutorial on the optical properties of ice: https://www.polartrec.com/resources/lesson/the-beauty-of-ice-when-art-collides-science
  
 [![The beauty of ice](https://i9.ytimg.com/vi/3y6p0yLhmZU/mq1.jpg?sqp=CNC9x4YG&rs=AOn4CLBwwOV1w3tPOmHKSAHJz5HZQiJLkw)](http://www.youtube.com/watch?v=3y6p0yLhmZU)
