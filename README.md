@@ -18,6 +18,4 @@ _credit: Jennifer Bault - 'Ice Core Extraction', Jun 7, 2018: https://www.youtub
  
  [Watch: The Beauty of Ice experiment](https://youtu.be/3y6p0yLhmZU) 
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=3y6p0yLhmZU
-" target="_blank"><img src="https://i9.ytimg.com/vi/3y6p0yLhmZU/mq1.jpg?sqp=CNC9x4YG&rs=AOn4CLBwwOV1w3tPOmHKSAHJz5HZQiJLkw" 
-alt="The beauty of ice" width="400" height="400" border="10" /></a>
+[![The beauty of ice](https://i9.ytimg.com/vi/3y6p0yLhmZU/mq1.jpg?sqp=CNC9x4YG&rs=AOn4CLBwwOV1w3tPOmHKSAHJz5HZQiJLkw)](http://www.youtube.com/watch?v=3y6p0yLhmZU)
